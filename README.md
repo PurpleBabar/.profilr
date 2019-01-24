@@ -1,0 +1,2 @@
+# .profilr
+A profile manager
