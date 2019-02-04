@@ -1,0 +1,80 @@
+"*":
+  "atom-ide-ui":
+    "atom-ide-code-format": {}
+    "atom-ide-datatip": {}
+    "atom-ide-outline-view": {}
+    hyperclick:
+      linuxTriggerKeys: "altKey"
+    use:
+      "atom-ide-busy-signal": "default"
+      "atom-ide-code-actions": "default"
+      "atom-ide-code-format": "default"
+      "atom-ide-code-highlight": "default"
+      "atom-ide-console": "default"
+      "atom-ide-datatip": "default"
+      "atom-ide-definitions": "default"
+      "atom-ide-diagnostics": "default"
+      "atom-ide-diagnostics-ui": "default"
+      "atom-ide-find-references": "default"
+      "atom-ide-global": "default"
+      "atom-ide-outline-view": "default"
+      "atom-ide-signature-help": "default"
+      hyperclick: "default"
+  "atom-material-ui":
+    colors: {}
+    fonts:
+      fontSize: 12
+    tabs:
+      compactTabs: true
+  autosave:
+    enabled: true
+  core:
+    closeDeletedFileTabs: true
+    disabledPackages: [
+      "linter"
+      "whitespace"
+    ]
+    telemetryConsent: "no"
+    themes: [
+      "atom-material-ui"
+      "atom-material-syntax-dark"
+    ]
+  editor:
+    fontFamily: "mononoki"
+    invisibles: {}
+    scrollPastEnd: true
+  "exception-reporting":
+    userId: "a8195ee0-e0bc-4616-955e-d19a2e3440eb"
+  "git-blame":
+    columnWidth: 236
+  "ide-php":
+    phpPath: "/usr/bin/php"
+  "linter-eslint":
+    global:
+      useGlobalEslint: true
+  "linter-ui-default":
+    panelHeight: 229
+  "markdown-preview":
+    useGitHubStyle: true
+  minimap:
+    plugins:
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+      "split-diff": true
+      "split-diffDecorationsZIndex": 0
+  "one-dark-ui": {}
+  "project-manager":
+    environmentSpecificProjects: true
+  "split-diff":
+    colors:
+      addedColor: "#2ecc71"
+      overrideThemeColors: true
+      removedColor: "#e74c3c"
+  welcome:
+    showOnStartup: false
+  zentabs:
+    maximumOpenedTabs: 10
+    neverCloseUnsaved: true
+".editorconfig.source":
+  editor:
+    showIndentGuide: true

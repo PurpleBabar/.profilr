@@ -1,0 +1,15 @@
+Name                  Version                 Rev   Tracking  Publisher     Notes
+amparemarkdowneditor  1.0.0                   1     stable    juthawong     -
+chromium              71.0.3578.98            566   stable    canonical*    -
+core                  16-2.37.1               6350  stable    canonical*    core
+core18                18                      594   stable    canonical*    base
+firefox               64.0.2-1                167   stable    mozilla*      -
+gitkraken             4.2.0                   135   stable    gitkraken*    -
+gtk-common-themes     0.1-4-g88bc1b2          818   stable    canonical*    -
+libreoffice           6.1.4.2                 100   stable    canonical*    -
+postman               6.7.1                   81    stable    postman-inc*  -
+rambox                0.6.3                   1     stable    ramboxapp*    -
+skype                 8.34.0.78               66    stable    skype*        classic
+spotify               1.0.98.78.gb45d2a6b-10  31    stable    spotify*      -
+unison-jz             2.51.2                  19    stable    jz            -
+vlc                   3.0.6                   770   stable    videolan*     -
